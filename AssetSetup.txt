@@ -1,4 +1,6 @@
 Aset Portfolio
 - VS code
 - Tampilan Design nya
-- Ekstension 
+- Ekstension
+- bahasa pemrograman yg dibutuhkan
+
