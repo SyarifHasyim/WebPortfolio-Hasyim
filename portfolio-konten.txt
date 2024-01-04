@@ -1,2 +1,3 @@
 Portfolio Konten
 -Menambah Data Pribadi
+-Persentasi Skill yg dipunya
